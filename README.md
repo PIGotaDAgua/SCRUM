@@ -1,6 +1,6 @@
 # SCRUM
 
-Papéis do Scrum
+# Papéis do Scrum
 O Scrum define papéis para garantir o funcionamento do método. Primeiramente, é importante conhecer cada um deles para posteriormente entender como aplicá-lo.
 
 - Product Owner: este é um dos papéis principais do Scrum. É o principal responsável por direcionar o projeto, considerando as necessidades e desejos do cliente. O Product Owner é a pessoa que irá definir o cronograma, as prioridades e designar as funções para a equipe.
