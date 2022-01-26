@@ -1,5 +1,10 @@
 # SCRUM
 
+
+# Trello - Quadro de organização de tarefas (<a href="https://trello.com/b/sxNvvA3L/projeto-integrador-gota-d%C3%A1gua" target="_blank">Clique aqui</a>) 
+
+<br />
+
 # Papéis do Scrum
 O Scrum define papéis para garantir o funcionamento do método. Primeiramente, é importante conhecer cada um deles para posteriormente entender como aplicá-lo.
 
@@ -7,6 +12,4 @@ O Scrum define papéis para garantir o funcionamento do método. Primeiramente, 
 - Scrum Master: o Scrum Master atua como um facilitador para a equipe. É responsável por certificar o andamento e o desenvolvimento do projeto. Esse papel é ocupado pela pessoa que tem mais conhecimento sobre a metodologia de trabalho.
 - Scrum Team: o terceiro papel é composto por toda a equipe do projeto. O Scrum Team é o principal responsável por desenvolver o projeto, seguindo as orientações dadas pelo Product Owner.
 
-#Trello - Quadro de organização de tarefas (<a href="https://trello.com/b/sxNvvA3L/projeto-integrador-gota-d%C3%A1gua" target="_blank">Clique aqui</a>) 
 
-<br />
